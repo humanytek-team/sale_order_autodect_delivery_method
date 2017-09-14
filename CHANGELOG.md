@@ -7,6 +7,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 
 
-## [1.0.0] - 2017-09-12
-### changed
+## [1.0.0] - 2017-09-13
+### added
 - Adds onchange method to the model sale.order to detect changes in lines of sale orders and autodetect the delivery method cheaper.
